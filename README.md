@@ -1,4 +1,4 @@
-# Zomato Data Analytics Project
+# Zomato Data Analysis
 
 **Created & Analyzed by:** Cheva Kavitha  
 
